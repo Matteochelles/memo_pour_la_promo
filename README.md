@@ -10,5 +10,8 @@ processus etape par etape:
 3.- git commit -m "message du commit" (mettre un message decrivant la modif)
 4.- git push origin main (pousse les modif faites en local vers github)
 
-lien des cles priver et public :
+ajouter une clé a son github :
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+lien pour generer sa clé privé et sa clé publique:
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
