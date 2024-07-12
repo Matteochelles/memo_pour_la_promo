@@ -10,4 +10,5 @@ processus etape par etape:
 3.- git commit -m "message du commit" (mettre un message decrivant la modif)
 4.- git push origin main (pousse les modif faites en local vers github)
 
-badadab
+lien des cles priver et public :
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
