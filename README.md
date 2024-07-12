@@ -9,3 +9,5 @@ processus etape par etape:
 2.- git add . (le '.' est pour add tout le repertoire)
 3.- git commit -m "message du commit" (mettre un message decrivant la modif)
 4.- git push origin main (pousse les modif faites en local vers github)
+
+badadab
